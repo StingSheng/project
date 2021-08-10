@@ -1,0 +1,23 @@
+[
+  {
+    "nickname": "马云",
+    "worth": 400000000000,
+    "avatar": "/images/f384a4b9-4bf5-45d0-9ad1-46d64ca45a01.jpg",
+    "id": "7f6eed1a-afb5-4dba-bf92-fec5178a39f1",
+    "status": 0
+  },
+  {
+    "nickname": "马化腾",
+    "worth": 800000000000,
+    "avatar": "/images/f0a5c18b-dd07-4bfe-bc09-9c3074c01663.jpg",
+    "id": "9708dbf8-052d-47ad-81a4-b4273e270fc5",
+    "status": 0
+  },
+  {
+    "nickname": "billgates",
+    "worth": 100000000000,
+    "avatar": "/images/3c3386fd-5904-4b7d-8fc1-fe6699b32c18.jpg",
+    "id": "868e6b82-1651-4d29-bfa7-049c313d8116",
+    "status": 0
+  }
+]
